@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<!-- Units  -->
+	<Modifier id="TRANS_SAHARAN_TRADER_MOD_IGNORE_FOREST" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_IGNORE_MOVEMENT_OBSTACLE">
+		<Argument name="Obstacle">FEATURE_FOREST</Argument>
+	</Modifier>
+	<Modifier id="TRANS_SAHARAN_TRADER_MOD_IGNORE_RAINFOREST" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_IGNORE_MOVEMENT_OBSTACLE">
+		<Argument name="Obstacle">FEATURE_RAINFOREST</Argument>
+	</Modifier>
+	<Modifier id="TRANS_SAHARAN_TRADER_MOD_IGNORE_SAGEBRUSH_STEPPE" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_IGNORE_MOVEMENT_OBSTACLE">
+		<Argument name="Obstacle">FEATURE_SAGEBRUSH_STEPPE</Argument>
+	</Modifier>
+	<Modifier id="TRANS_SAHARAN_TRADER_MOD_IGNORE_SAVANNA_WOODLAND" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_IGNORE_MOVEMENT_OBSTACLE">
+		<Argument name="Obstacle">FEATURE_SAVANNA_WOODLAND</Argument>
+	</Modifier>
+	<Modifier id="TRANS_SAHARAN_TRADER_MOD_IGNORE_TAIGA" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_IGNORE_MOVEMENT_OBSTACLE">
+		<Argument name="Obstacle">FEATURE_TAIGA</Argument>
+	</Modifier>
+</GameEffects>

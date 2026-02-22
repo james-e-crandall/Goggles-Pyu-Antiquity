@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Database>
+    <IconDefinitions>
+        <!-- Civ Symbol-->
+        <Row>
+            <ID>CIVILIZATION_WAGADU_JEC</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/civ_sym_wagadu_jec</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+		<Row>
+			<ID>ICON_CIVILIZATION_WAGADU_JEC</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/civ_sym_wagadu_jec</Path>
+		</Row>
+        <!-- Loadscreen -->
+		<Row>
+			<ID>CIVILIZATION_WAGADU_JEC</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_1080</Path>
+			<IconSize>1080</IconSize>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_WAGADU_JEC</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_720</Path>
+			<IconSize>720</IconSize>
+		</Row>
+        <!-- Culture -->
+        <Row>
+            <ID>cult_wagadu</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/cult_wagadu_jec.png</Path>
+        </Row> 
+        <!-- Building -->
+		<Row>
+			<ID>BUILDING_DOME_KA_YOROBA_JEC</ID>
+			<Path>fs://game/goggles_civ_wagadu/icons/buildicon_dome_ka_yoroba_jec.png</Path>
+		</Row>
+		<Row>
+			<ID>BUILDING_YIRI_SENUMAN_JEC</ID>
+			<Path>fs://game/goggles_civ_wagadu/icons/buildicon_yiri_senuman_jec.png</Path>
+		</Row>  
+        <!-- wonder -->
+		<Row>
+			<ID>WONDER_LARABANGA_MOSQUE</ID>
+			<Path>fs://game/goggles_civ_wagadu/icons/wondericon_larabanga_mosque.png</Path>
+		</Row>
+
+        <!-- UU AND UI -->
+        <Row>
+            <ID>UNIT_TRANS_SAHARAN_TRADER_JEC</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/unitflag_trans_saharan_trader_jec.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+        <Row>
+            <ID>UNIT_TRANS_SAHARAN_TRADER_JEC_2</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/unitflag_trans_saharan_trader_jec.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+    </IconDefinitions>
+</Database>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_WAGADU_JEC" Kind="KIND_UNLOCK"/>
+	</Types>
+	<Unlocks>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_WAGADU_JEC"/>
+	</Unlocks>
+	<UnlockRewards>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_WAGADU_JEC" Name="LOC_CIVILIZATION_WAGADU_JEC_NAME" Description="LOC_UNLOCK_ANTIQUITY_CIV_DESCRIPTION" Icon="CIVILIZATION_WAGADU_JEC" UnlockRewardType="CIVILIZATION_WAGADU_JEC" UnlockRewardKind="KIND_CIVILIZATION" />
+	</UnlockRewards>
+	<UnlockRequirements>
+	</UnlockRequirements>
+	<UnlockConfigurationValues>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_WAGADU_JEC" ConfigurationValue="CIVILIZATION_WAGADU_JEC"/>
+	</UnlockConfigurationValues>
+</Database>

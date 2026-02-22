@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--PYU-->
+		<Row Tag="LOC_CITY_NAME_PYU_JEC1">
+			<Text>Sri Ksetra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC2">
+			<Text>Beikthano</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC3">
+			<Text>Maingmaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC4">
+			<Text>Binnaka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC5">
+			<Text>Hanlin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC6">
+			<Text>Halin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC7">
+			<Text>Hmainmaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC8">
+			<Text>Tagaung</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC9">
+			<Text>Pinle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC10">
+			<Text>Pinle Pyu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC11">
+			<Text>Mong Mao</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC12">
+			<Text>Mongamo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC13">
+			<Text>Halingyi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC14">
+			<Text>Thaton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC15">
+			<Text>Kelasa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC16">
+			<Text>Bago </Text>
+		</Row>
+
+	</EnglishText>
+</Database>

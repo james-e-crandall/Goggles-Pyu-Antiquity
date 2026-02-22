@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_PYU">
+			<Text>The major Pyu city-states were all located in the three main irrigated regions of Upper Burma: the Mu River Valley, the Kyaukse plains and Minbu region, around the confluence of the Irrawaddy and Chindwin Rivers. The millennium-old civilisation came crashing down in the 9th century when the city-states were destroyed by repeated invasions from the Kingdom of Nanzhao.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_PYU">
+			<Text>Due to greediness, men ran in the cycle of life... like a horse, the moon appeared and ran.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_TIPS_TEXT_PYU">
+			<Text>PYU gets trading going early and get bonuses to routes in the PYU civics tree.</Text>
+		</Row>
+	</EnglishText>
+</Database>

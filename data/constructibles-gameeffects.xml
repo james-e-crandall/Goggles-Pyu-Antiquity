@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+
+	<!-- Allies can support your Endeavors for free. -->
+	<Modifier id="GILGAMESH_ALLIES_CAN_SUPPORT_ENDEAVORS_FOR_FREE" collection="COLLECTION_OWNER" effect="EFFECT_DIPLOMACY_ADJUST_DIPLOMATIC_RESPONSE_EFFICIENCY">
+		<Argument name="ResponseType">DIPLOMACY_RESPONSE_SUPPORT</Argument>
+		<Argument name="Percent">100</Argument>
+		<Argument name="ApplyToAlliesOnly">true</Argument>
+	</Modifier>
+
+</GameEffects>

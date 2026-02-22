@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_PYU_DESCRIPTION">
+			<Text>Play as the [B]PYU[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_PYU_SONGHAI_TOOLTIP">
+			<Text>[B]PYU[/B] was from the same continent as [B]Songhai[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_AMINA_PYU_TOOLTIP">
+			<Text>[B]Amina[/B] was from the same continent as [B]PYU[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_HARRIET_TUBMAN_PYU_TOOLTIP">
+			<Text>[B]Harriet Tubman's[/B] ancestors came from the same continent as [B]PYU[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_IBN_BATTUTA_PYU_TOOLTIP">
+			<Text>[B]Ibn Battuta[/B] traveled in the same region as [B]PYU[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_XERXES_ALT_PYU_TOOLTIP">
+			<Text>The [B]Xerxes, The Achaemenid[/B] offer a complementary playstyle to [B]PYU[/B].</Text>
+		</Row>
+	</EnglishText>
+</Database>
