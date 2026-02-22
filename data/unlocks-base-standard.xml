@@ -4,10 +4,10 @@
 		<InsertOrIgnore Kind="KIND_UNLOCK"/>
 	</Kinds>
 	<Types>
-		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_WAGADU_JEC" Kind="KIND_UNLOCK"/>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_PYU_JEC" Kind="KIND_UNLOCK"/>
 	</Types>
 	<Unlocks>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_WAGADU_JEC"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_PYU_JEC"/>
 	</Unlocks>
 	<UnlockRewards>
 	</UnlockRewards>
@@ -18,15 +18,15 @@
 		<Row RequirementId="REQ_CIV_IS_WAGADU" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
 	</Requirements>
 	<RequirementArguments>
-		<Row RequirementId="REQ_CIV_IS_WAGADU" Name="CivilizationType" Value="CIVILIZATION_WAGADU_JEC"/>
+		<Row RequirementId="REQ_CIV_IS_WAGADU" Name="CivilizationType" Value="CIVILIZATION_PYU_JEC"/>
 	</RequirementArguments>
 	<RequirementSetRequirements>
 		<Row RequirementSetId="REQSET_CIV_IS_WAGADU" RequirementId="REQ_CIV_IS_WAGADU"/>
 	</RequirementSetRequirements>
 	<UnlockRequirements>
-		<Row UnlockType="UNLOCK_CIVILIZATION_SONGHAI" RequirementSetId="REQSET_CIV_IS_WAGADU" Description="LOC_UNLOCK_PLAY_AS_WAGADU_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_WAGADU_SONGHAI_TOOLTIP"/>
+		<Row UnlockType="UNLOCK_CIVILIZATION_SONGHAI" RequirementSetId="REQSET_CIV_IS_WAGADU" Description="LOC_UNLOCK_PLAY_AS_PYU_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_PYU_SONGHAI_TOOLTIP"/>
 	</UnlockRequirements>
 	<UnlockConfigurationValues>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_WAGADU_JEC" ConfigurationValue="CIVILIZATION_WAGADU_JEC"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_PYU_JEC" ConfigurationValue="CIVILIZATION_PYU_JEC"/>
 	</UnlockConfigurationValues>
 </Database>

@@ -52,16 +52,16 @@
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" CityName="LOC_CITY_NAME_PYU_JEC16"/>
 	</CityNames>
 	<StartBiasBiomes>
-		<Row CivilizationType="CIVILIZATION_PYU_JEC" BiomeType="BIOME_DESERT" Score="15"/>
+		<Row CivilizationType="CIVILIZATION_PYU_JEC" BiomeType="BIOME_TROPICAL" Score="20"/>
 	</StartBiasBiomes>
 	<StartBiasTerrains>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" TerrainType="TERRAIN_NAVIGABLE_RIVER" Score="20"/>
 	</StartBiasTerrains>
 	<VisArt_CivilizationBuildingCultures>
-		<Row CivilizationType="CIVILIZATION_PYU_JEC" BuildingCulture="BUILDING_CULTURE_NAF"/>
-		<Row CivilizationType="CIVILIZATION_PYU_JEC" BuildingCulture="ANT_MUD"/>
-		<Row CivilizationType="CIVILIZATION_PYU_JEC" BuildingCulture="EXP_MUD"/>
-		<Row CivilizationType="CIVILIZATION_PYU_JEC" BuildingCulture="MOD_MUD"/>
+		<Row CivilizationType="CIVILIZATION_PYU_JEC" BuildingCulture="BUILDING_CULTURE_PAC"/>
+		<Row CivilizationType="CIVILIZATION_PYU_JEC" BuildingCulture="ANT_STONE"/>
+		<Row CivilizationType="CIVILIZATION_PYU_JEC" BuildingCulture="EXP_STONE"/>
+		<Row CivilizationType="CIVILIZATION_PYU_JEC" BuildingCulture="MOD_STONE"/>
 	</VisArt_CivilizationBuildingCultures>
 	<VisArt_CivilizationUnitCultures>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" UnitCulture="Afr"/>

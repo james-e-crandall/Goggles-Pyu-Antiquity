@@ -8,7 +8,7 @@
 				<Argument name="DistrictClass">CITYCENTER</Argument>
 			</Requirement>
 		</SubjectRequirements>
-		<Argument name="Percent">50</Argument>
+		<Argument name="Percent">100</Argument>
 		<Argument name="Tooltip">LOC_TRAIT_PYU_JEC_ABILITY_NAME</Argument>
 		<String context="Description">LOC_CIVILIZATION_PYU_JEC_DESCRIPTION</String>
 	</Modifier>

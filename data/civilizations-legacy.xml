@@ -19,5 +19,6 @@
 	<LegacyLeaderCivPriorities>
 		<Row Leader="LEADER_ASHOKA" CivilizationType="CIVILIZATION_PYU_JEC"/>
 		<Row Leader="LEADER_ASHOKA_ALT" CivilizationType="CIVILIZATION_PYU_JEC"/>
+		<Row Leader="LEADER_TRUNG_TRAC" CivilizationType="CIVILIZATION_PYU_JEC"/>
 	</LegacyLeaderCivPriorities>
 </Database>

@@ -9,30 +9,26 @@
 	<PseudoYields>
 	</PseudoYields>
 	<AiListTypes>
-		<!-- Wagadu -->
-		<Row ListType="Wagadu Unit Biases"/>
-		<Row ListType="Wagadu Government Bias"/>
-		<Row ListType="Wagadu Constructibles Biases" />
-		<Row ListType="Wagadu Budget Biases" />
-		<Row ListType="Wagadu PseudoYield Biases" />
-		<Row ListType="Wagadu Tag Biases"/>
+		<!-- Pyu -->
+		<Row ListType="Pyu Unit Biases"/>
+		<Row ListType="Pyu Government Bias"/>
+		<Row ListType="Pyu Constructibles Biases" />
+		<Row ListType="Pyu Budget Biases" />
+		<Row ListType="Pyu PseudoYield Biases" />
+		<Row ListType="Pyu Tag Biases"/>
 	</AiListTypes>
 	<AiLists>
-		<!-- Wagadu -->
-		<Row ListType="Wagadu Unit Biases" LeaderType="TRAIT_WAGADU_JEC" System="UnitBiases"/>
-		<Row ListType="Wagadu Government Bias" LeaderType="TRAIT_WAGADU_JEC" System="GovernmentBiases"/>
-		<Row ListType="Wagadu Constructibles Biases" LeaderType="TRAIT_WAGADU_JEC" System="ConstructibleBiases" />	
-		<Row ListType="Wagadu Budget Biases" LeaderType="TRAIT_WAGADU_JEC" System="AiBudgetBiases"/>	
-		<Row ListType="Wagadu PseudoYield Biases" LeaderType="TRAIT_WAGADU_JEC" System="PseudoYieldBiases"/>	
-		<Row ListType="Wagadu Tag Biases" LeaderType="TRAIT_WAGADU_JEC" System="TagBiases"/>
+		<!-- Pyu -->
+		<Row ListType="Pyu Unit Biases" LeaderType="TRAIT_PYU_JEC" System="UnitBiases"/>
+		<Row ListType="Pyu Government Bias" LeaderType="TRAIT_PYU_JEC" System="GovernmentBiases"/>
+		<Row ListType="Pyu Constructibles Biases" LeaderType="TRAIT_PYU_JEC" System="ConstructibleBiases" />	
+		<Row ListType="Pyu Budget Biases" LeaderType="TRAIT_PYU_JEC" System="AiBudgetBiases"/>	
+		<Row ListType="Pyu PseudoYield Biases" LeaderType="TRAIT_PYU_JEC" System="PseudoYieldBiases"/>	
+		<Row ListType="Pyu Tag Biases" LeaderType="TRAIT_PYU_JEC" System="TagBiases"/>
 	</AiLists>
 	<AiFavoredItems>
-		<!-- Wagadu -->
-		<Row ListType="Wagadu Constructibles Biases" Item="BUILDING_DOME_KA_YOROBA_JEC" Value="200" />
-		<Row ListType="Wagadu Constructibles Biases" Item="BUILDING_YIRI_SENUMAN_JEC" Value="200" />
-		<Row ListType="Wagadu Constructibles Biases" Item="WONDER_LARABANGA_MOSQUE" Value="50"/>
-		<Row ListType="Wagadu Unit Biases" Item="UNIT_TRANS_SAHARAN_TRADER_JEC" Value="200"/>
-		<Row ListType="Wagadu Unit Biases" Item="UNIT_TRANS_SAHARAN_TRADER_JEC_2" Value="200"/>
+		<!-- Pyu -->
+
 	</AiFavoredItems>
 	<!-- City Strategies -->
 	<Strategies>

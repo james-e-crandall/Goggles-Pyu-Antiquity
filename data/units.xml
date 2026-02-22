@@ -9,8 +9,8 @@
 		<Row Type="ABILITY_TRANS_SAHARAN_TRADER" Kind="KIND_ABILITY"/>
 	</Types>
 	<Units>
-		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER_JEC" Name="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_NAME" Description="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_DESCRIPTION" BaseSightRange="2" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" MakeTradeRoute="true" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="20" TraitType="TRAIT_WAGADU_JEC"/>
-		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER_JEC_2" Name="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_NAME" Description="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_DESCRIPTION" BaseSightRange="2" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" MakeTradeRoute="true" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="20" TraitType="TRAIT_WAGADU_JEC"/>
+		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER_JEC" Name="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_NAME" Description="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_DESCRIPTION" BaseSightRange="2" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" MakeTradeRoute="true" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="20" TraitType="TRAIT_PYU_JEC"/>
+		<Row UnitType="UNIT_TRANS_SAHARAN_TRADER_JEC_2" Name="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_NAME" Description="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_DESCRIPTION" BaseSightRange="2" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" MakeTradeRoute="true" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="20" TraitType="TRAIT_PYU_JEC"/>
 	</Units>
 	<Unit_Stats>
 
