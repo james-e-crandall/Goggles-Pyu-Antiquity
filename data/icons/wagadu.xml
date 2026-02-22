@@ -3,31 +3,31 @@
     <IconDefinitions>
         <!-- Civ Symbol-->
         <Row>
-            <ID>CIVILIZATION_WAGADU_JEC</ID>
-            <Path>fs://game/goggles_civ_wagadu/icons/civ_sym_wagadu_jec</Path>
+            <ID>CIVILIZATION_PYU_JEC</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/civ_sym_pyu_jec</Path>
             <Context>DEFAULT</Context>
         </Row>
 		<Row>
-			<ID>ICON_CIVILIZATION_WAGADU_JEC</ID>
-            <Path>fs://game/goggles_civ_wagadu/icons/civ_sym_wagadu_jec</Path>
+			<ID>ICON_CIVILIZATION_PYU_JEC</ID>
+            <Path>fs://game/goggles_civ_wagadu/icons/civ_sym_pyu_jec</Path>
 		</Row>
         <!-- Loadscreen -->
 		<Row>
-			<ID>CIVILIZATION_WAGADU_JEC</ID>
+			<ID>CIVILIZATION_PYU_JEC</ID>
 			<Context>BACKGROUND</Context>
-			<Path>fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_1080</Path>
+			<Path>fs://game/goggles_civ_wagadu/icons/lsbg_PYU_1080</Path>
 			<IconSize>1080</IconSize>
 		</Row>
 		<Row>
-			<ID>CIVILIZATION_WAGADU_JEC</ID>
+			<ID>CIVILIZATION_PYU_JEC</ID>
 			<Context>BACKGROUND</Context>
-			<Path>fs://game/goggles_civ_wagadu/icons/lsbg_wagadu_720</Path>
+			<Path>fs://game/goggles_civ_wagadu/icons/lsbg_pyu_720</Path>
 			<IconSize>720</IconSize>
 		</Row>
         <!-- Culture -->
         <Row>
             <ID>cult_wagadu</ID>
-            <Path>fs://game/goggles_civ_wagadu/icons/cult_wagadu_jec.png</Path>
+            <Path>fs://game/goggles_civ_wagadu/icons/cult_pyu_jec.png</Path>
         </Row> 
         <!-- Building -->
 		<Row>
@@ -40,8 +40,8 @@
 		</Row>  
         <!-- wonder -->
 		<Row>
-			<ID>WONDER_LARABANGA_MOSQUE</ID>
-			<Path>fs://game/goggles_civ_wagadu/icons/wondericon_larabanga_mosque.png</Path>
+			<ID>WONDER_BAWHAWGYI_PAGODA</ID>
+			<Path>fs://game/goggles_civ_wagadu/icons/wondericon_Bawbawgyi_Pagoda.png</Path>
 		</Row>
 
         <!-- UU AND UI -->

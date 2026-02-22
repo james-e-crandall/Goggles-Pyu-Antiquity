@@ -93,14 +93,14 @@
 	<ConstructibleModifiers>
 	</ConstructibleModifiers>
 	<UniqueQuarters>
-		<Row UniqueQuarterType="QUARTER_OUAGADOU_JEC" BuildingType1="BUILDING_DOME_KA_YOROBA_JEC" BuildingType2="BUILDING_YIRI_SENUMAN_JEC" Name="LOC_QUARTER_OUAGADOU_JEC_NAME" Description="LOC_QUARTER_OUAGADOU_JEC_DESCRIPTION" Tooltip="LOC_QUARTER_OUAGADOU_JEC_TOOLTIP" TraitType="TRAIT_WAGADU_JEC"/>
+		<Row UniqueQuarterType="QUARTER_THAYEKHITTAYA_JEC" BuildingType1="BUILDING_DOME_KA_YOROBA_JEC" BuildingType2="BUILDING_YIRI_SENUMAN_JEC" Name="LOC_QUARTER_THAYEKHITTAYA_JEC_NAME" Description="LOC_QUARTER_THAYEKHITTAYA_JEC_DESCRIPTION" Tooltip="LOC_QUARTER_THAYEKHITTAYA_JEC_TOOLTIP" TraitType="TRAIT_WAGADU_JEC"/>
 	</UniqueQuarters>
 	<GameModifiers>
-		<Row ModifierId="MOD_OUAGADOU_OWNER_RESOURCE_CAP"/>
+		<Row ModifierId="MOD_THAYEKHITTAYA_OWNER_RESOURCE_CAP"/>
 	</GameModifiers>
 	<!-- These are listed here so the AI can evalutate Unique Quarters. They do not have any effects on the game for human players. -->
 	<UniqueQuarterModifiers>
-		<Row UniqueQuarterType="QUARTER_OUAGADOU_JEC" ModifierId="MOD_OUAGADOU_OWNER_RESOURCE_CAP"/>
+		<Row UniqueQuarterType="QUARTER_THAYEKHITTAYA_JEC" ModifierId="MOD_THAYEKHITTAYA_OWNER_RESOURCE_CAP"/>
 	</UniqueQuarterModifiers>
 	<Constructible_Advisories>
 	</Constructible_Advisories>

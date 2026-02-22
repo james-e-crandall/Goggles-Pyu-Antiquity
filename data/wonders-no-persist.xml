@@ -2,7 +2,7 @@
 <Database>
 	<Constructible_GreatWorks>
 		<!--Wonders-->
-		<Row ConstructibleType="WONDER_LARABANGA_MOSQUE" GreatWorkSlotType="GREATWORKSLOT_WRITING" NumSlots="1"/>
+		<Row ConstructibleType="WONDER_BAWHAWGYI_PAGODA" GreatWorkSlotType="GREATWORKSLOT_WRITING" NumSlots="1"/>
 	</Constructible_GreatWorks>
 
 </Database>
