@@ -3,13 +3,13 @@
 	<EnglishText>
 		<!-- BUILDING -->
 		<!-- DOME_COMPLEX -->
-		<Row Tag="LOC_BUILDING_DOME_KA_YOROBA_JEC_NAME">
+		<Row Tag="LOC_BUILDING_PAYAHTAUNG_JEC_NAME">
 			<Text>Dome Ka Yoroba</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_DOME_KA_YOROBA_JEC_DESCRIPTION">
+		<Row Tag="LOC_BUILDING_PAYAHTAUNG_JEC_DESCRIPTION">
 			<Text>+1[icon:YIELD_DIPLOMACY] Influence. +1[icon:YIELD_DIPLOMACY] Influence Adjacency for Quarters and Wonders. Wagadu Unique Influence Building. Ageless.</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_DOME_KA_YOROBA_JEC_TOOLTIP">
+		<Row Tag="LOC_BUILDING_PAYAHTAUNG_JEC_TOOLTIP">
 			<Text>Wagadu Unique Influence Building. Ageless.</Text>
 		</Row>
 		<!-- SACRED_GROVE -->

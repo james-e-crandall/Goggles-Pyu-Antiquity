@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
 
-	<Modifier id="ATTACH_MOD_THAYEKHITTAYA_OWNER_RESOURCE_CAP" collection="COLLECTION_OWNER" effect="EFFECT_CITY_ADJUST_RESOURCE_CAP">
-		<Argument name="Amount">2</Argument>
-	</Modifier>
-
-	<Modifier id="MOD_THAYEKHITTAYA_OWNER_RESOURCE_CAP" collection="COLLECTION_ALL_CITIES" effect="EFFECT_ATTACH_MODIFIERS">
+	<Modifier id="MOD_THAYEKHITTAYA_CITY_STATE_UNIQUE_HAPPINESS" collection="COLLECTION_ALL_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD" permanent="true" run-once="true">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
 				<Argument name="UniqueQuarterType">QUARTER_THAYEKHITTAYA_JEC</Argument>
 			</Requirement>
 		</SubjectRequirements>
-		<Argument name="ModifierId">ATTACH_MOD_THAYEKHITTAYA_OWNER_RESOURCE_CAP</Argument>
-		<String context="Description">LOC_QUARTER_THAYEKHITTAYA_JEC_DESCRIPTION</String>
+		<Argument name="Tag">CITY_STATE_UNIQUE_IMPROVEMENT</Argument>
+		<Argument name="YieldType">YIELD_HAPPINESS</Argument>
+		<Argument name="Amount">5</Argument>
+		<Argument name="Tooltip">LOC_QUARTER_THAYEKHITTAYA_JEC_NAME</Argument>
 	</Modifier>
 
 </GameEffects>

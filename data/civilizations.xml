@@ -28,9 +28,8 @@
 	</CivilizationTraits>
 	<LeaderCivPriorities>
 		<!--This is the table used for AI, the UI uses LeaderCivilizationBias in config.xml-->
-		<Row Leader="LEADER_AMINA" Civilization="CIVILIZATION_PYU_JEC" Priority="3"/>
-		<Row Leader="LEADER_HARRIET_TUBMAN" Civilization="CIVILIZATION_PYU_JEC" Priority="3"/>
-		<Row Leader="LEADER_IBN_BATTUTA" Civilization="CIVILIZATION_PYU_JEC" Priority="3"/>
+		<Row Leader="LEADER_ASHOKA" Civilization="CIVILIZATION_PYU_JEC" Priority="2"/>
+		<Row Leader="LEADER_TRUNG_TRAC" Civilization="CIVILIZATION_PYU_JEC" Priority="2"/>
 	</LeaderCivPriorities>
 	<CityNames>
 		<!--PYU-->
