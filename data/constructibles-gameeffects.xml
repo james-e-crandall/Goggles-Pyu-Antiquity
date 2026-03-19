@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
 
-	<Modifier id="MOD_THAYEKHITTAYA_CITY_STATE_UNIQUE_HAPPINESS" collection="COLLECTION_ALL_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD" permanent="true" run-once="true">
+
+
+	<Modifier id="MOD_THAYEKHITTAYA_QUARTER_ADJACENCY" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ACTIVATE_CONSTRUCTIBLE_ADJACENCY">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
 				<Argument name="UniqueQuarterType">QUARTER_THAYEKHITTAYA_JEC</Argument>
 			</Requirement>
 		</SubjectRequirements>
-		<Argument name="Tag">CITY_STATE_UNIQUE_IMPROVEMENT</Argument>
-		<Argument name="YieldType">YIELD_HAPPINESS</Argument>
-		<Argument name="Amount">5</Argument>
-		<Argument name="Tooltip">LOC_QUARTER_THAYEKHITTAYA_JEC_NAME</Argument>
+		<Argument name="ConstructibleAdjacency">PayahtaungQuarterCulture, KhinBaQuarterScience</Argument>
+		<String context="Description">LOC_MOD_ZHI_SCIENCE_BUILDING_URBAN_ADJACENCY_DESCRIPTION</String>
 	</Modifier>
+
+
+
 
 </GameEffects>

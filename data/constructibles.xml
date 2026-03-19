@@ -22,7 +22,7 @@
 	<Wonders>
 	</Wonders>
 	<TypeTags>
-		<Row Type="BUILDING_PAYAHTAUNG_JEC" Tag="DIPLOMACY"/>
+		<Row Type="BUILDING_PAYAHTAUNG_JEC" Tag="HAPPINESS"/>
 		<Row Type="BUILDING_PAYAHTAUNG_JEC" Tag="UNIQUE"/>
 		<Row Type="BUILDING_PAYAHTAUNG_JEC" Tag="AGELESS"/>
 
@@ -52,31 +52,27 @@
 	<AgeConstructibleDefaultMaintenances>
 	</AgeConstructibleDefaultMaintenances>
 	<Constructible_YieldChanges>
-		<Row ConstructibleType="BUILDING_PAYAHTAUNG_JEC" YieldType="YIELD_HAPPINESS" YieldChange="2"/>
-		<Row ConstructibleType="BUILDING_KHIN_BA_JEC" YieldType="YIELD_HAPPINESS" YieldChange="2"/>
+		<Row ConstructibleType="BUILDING_PAYAHTAUNG_JEC" YieldType="YIELD_HAPPINESS" YieldChange="1"/>
+		<Row ConstructibleType="BUILDING_KHIN_BA_JEC" YieldType="YIELD_HAPPINESS" YieldChange="1"/>
 	</Constructible_YieldChanges>
 	<Constructible_Maintenances>
 		<Row ConstructibleType="BUILDING_PAYAHTAUNG_JEC" YieldType="YIELD_GOLD" Amount="2"/>
 		<Row ConstructibleType="BUILDING_KHIN_BA_JEC" YieldType="YIELD_GOLD" Amount="2"/>
 	</Constructible_Maintenances>
 	<Constructible_Adjacencies>
-		<Row ConstructibleType="BUILDING_PAYAHTAUNG_JEC" YieldChangeId="DomeKaYorQuarterDiplomacy"/>
-		<Row ConstructibleType="BUILDING_PAYAHTAUNG_JEC" YieldChangeId="DomeKaYorWonderDiplomacy"/>
-		<Row ConstructibleType="BUILDING_KHIN_BA_JEC" YieldChangeId="MountainCulture"/>
-		<Row ConstructibleType="BUILDING_KHIN_BA_JEC" YieldChangeId="NaturalWonderCulture"/>
-		<Row ConstructibleType="BUILDING_KHIN_BA_JEC" YieldChangeId="WonderCulture"/>
-		<Row ConstructibleType="BUILDING_KHIN_BA_JEC" YieldChangeId="YiriSenumanQuarterCulture"/>
-
-		<Row ConstructibleType="BUILDING_PALACE" YieldChangeId="WagaduMazlimPalaceInfluence" RequiresActivation="true" />
+		<Row ConstructibleType="BUILDING_PAYAHTAUNG_JEC" YieldChangeId="PayahtaungNavigableRiverHappiness"/>
+		<Row ConstructibleType="BUILDING_KHIN_BA_JEC" YieldChangeId="KhinBaNavigableRiverGold"/>
+		<!-- Adjacencies for the Palace -->
+		<Row ConstructibleType="BUILDING_PAYAHTAUNG_JEC" YieldChangeId="PayahtaungQuarterCulture" RequiresActivation="true"/>
+		<Row ConstructibleType="BUILDING_KHIN_BA_JEC" YieldChangeId="KhinBaQuarterScience" RequiresActivation="true"/>
 	</Constructible_Adjacencies>
 	<Adjacency_YieldChanges>
-		<Row ID="PayahtaungWonderHappiness" YieldType="YIELD_HAPPINESS" YieldChange="1" TilesRequired="1" AdjacentDistrict="DISTRICT_WONDER"/>
-		<Row ID="PayahtaungNavigableRiverHappiness" YieldType="YIELD_GOLD" YieldChange="1" TilesRequired="1" ProjectMaxYield="true" AdjacentTerrain="TERRAIN_NAVIGABLE_RIVER"/>
-		<Row ID="PayahtaungScienceHappiness" YieldType="YIELD_HAPPINESS" YieldChange="2" TilesRequired="1" ProjectMaxYield="true" AdjacentConstructibleTag="CULTURE"/>
+		<Row ID="PayahtaungNavigableRiverHappiness" YieldType="YIELD_HAPPINESS" YieldChange="2" TilesRequired="1" ProjectMaxYield="true" AdjacentTerrain="TERRAIN_NAVIGABLE_RIVER"/>
+		<Row ID="KhinBaNavigableRiverGold" YieldType="YIELD_GOLD" YieldChange="2" TilesRequired="1" ProjectMaxYield="true" AdjacentTerrain="TERRAIN_NAVIGABLE_RIVER"/>
 
-		<Row ID="KhinBaWonderHappiness" YieldType="YIELD_HAPPINESS" YieldChange="1" TilesRequired="1" AdjacentDistrict="DISTRICT_WONDER"/>
-		<Row ID="KhinBaResourceHappiness" YieldType="YIELD_HAPPINESS" YieldChange="2" TilesRequired="1" AdjacentResource="true"/>
-		<Row ID="KhinBaCultureHappiness" YieldType="YIELD_HAPPINESS" YieldChange="2" TilesRequired="1" ProjectMaxYield="true" AdjacentConstructibleTag="CULTURE"/>
+
+		<Row ID="PayahtaungQuarterCulture" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentQuarter="true"/>
+		<Row ID="KhinBaQuarterScience" YieldType="YIELD_SCIENCE" YieldChange="1" TilesRequired="1" AdjacentQuarter="true"/>
 
 	</Adjacency_YieldChanges>
 	<Constructible_WarehouseYields>
@@ -95,11 +91,11 @@
 		<Row UniqueQuarterType="QUARTER_THAYEKHITTAYA_JEC" BuildingType1="BUILDING_PAYAHTAUNG_JEC" BuildingType2="BUILDING_KHIN_BA_JEC" Name="LOC_QUARTER_THAYEKHITTAYA_JEC_NAME" Description="LOC_QUARTER_THAYEKHITTAYA_JEC_DESCRIPTION" Tooltip="LOC_QUARTER_THAYEKHITTAYA_JEC_TOOLTIP" TraitType="TRAIT_PYU_JEC"/>
 	</UniqueQuarters>
 	<GameModifiers>
-		<Row ModifierId="MOD_THAYEKHITTAYA_OWNER_RESOURCE_CAP"/>
+		<Row ModifierId="MOD_THAYEKHITTAYA_QUARTER_ADJACENCY"/>
 	</GameModifiers>
 	<!-- These are listed here so the AI can evalutate Unique Quarters. They do not have any effects on the game for human players. -->
 	<UniqueQuarterModifiers>
-		<Row UniqueQuarterType="QUARTER_THAYEKHITTAYA_JEC" ModifierId="MOD_THAYEKHITTAYA_OWNER_RESOURCE_CAP"/>
+		<Row UniqueQuarterType="QUARTER_THAYEKHITTAYA_JEC" ModifierId="MOD_THAYEKHITTAYA_QUARTER_ADJACENCY"/>
 	</UniqueQuarterModifiers>
 	<Constructible_Advisories>
 	</Constructible_Advisories>

@@ -23,7 +23,7 @@
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_PYU_JEC"/>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_PYU_JEC_2"/>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_PYU_JEC_ABILITY"/>
-		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_ATTRIBUTE_POLITICAL"/>
+		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_ATTRIBUTE_CULTURAL"/>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_ATTRIBUTE_ECONOMIC"/>
 	</CivilizationTraits>
 	<LeaderCivPriorities>

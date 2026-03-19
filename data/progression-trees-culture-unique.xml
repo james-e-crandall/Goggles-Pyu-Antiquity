@@ -4,16 +4,16 @@
 		<!-- tree -->
 		<Row Type="TREE_CIVICS_AQ_PYU_JEC" Kind="KIND_TREE"/>
 		<!-- nodes -->
-		<Row Type="NODE_CIVIC_AQ_PYU_GHANA" Kind="KIND_TREE_NODE"/>
-		<Row Type="NODE_CIVIC_AQ_PYU_BAMBOUK" Kind="KIND_TREE_NODE"/>
-		<Row Type="NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE" Kind="KIND_TREE_NODE"/>
 		<Row Type="NODE_CIVIC_AQ_PYU_DINAR" Kind="KIND_TREE_NODE"/>
 		<Row Type="NODE_CIVIC_AQ_PYU_KAFU" Kind="KIND_TREE_NODE"/>
 	</Types>
 	<TypeQuotes>
-		<Row Type="NODE_CIVIC_AQ_PYU_GHANA" Quote="LOC_NODE_CIVIC_AQ_PYU_GHANA_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_PYU_GHANA_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Ghana" />
-		<Row Type="NODE_CIVIC_AQ_PYU_BAMBOUK" Quote="LOC_NODE_CIVIC_AQ_PYU_BAMBOUK_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_PYU_BAMBOUK_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Ghana" />
-		<Row Type="NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH" Quote="LOC_NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Ghana" />
+		<Row Type="NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM" Quote="LOC_NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Ghana" />
+		<Row Type="NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY" Quote="LOC_NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Ghana" />
+		<Row Type="NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE" Quote="LOC_NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Ghana" />
 		<Row Type="NODE_CIVIC_AQ_PYU_DINAR" Quote="LOC_NODE_CIVIC_AQ_PYU_DINAR_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_PYU_DINAR_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Dinar" />
 		<Row Type="NODE_CIVIC_AQ_PYU_KAFU" Quote="LOC_NODE_CIVIC_AQ_PYU_KAFU_QUOTE" QuoteAuthor="LOC_NODE_CIVIC_AQ_PYU_KAFU_QUOTE_AUTHOR" QuoteAudio="VO_Quote_Kafu" />
 	</TypeQuotes>
@@ -21,28 +21,28 @@
 		<Row ProgressionTreeType="TREE_CIVICS_AQ_PYU_JEC" AgeType="AGE_ANTIQUITY" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_AQ_PYU_JEC_NAME"/>
 	</ProgressionTrees>
 	<ProgressionTreeNodes>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_GHANA" ProgressionTree="TREE_CIVICS_AQ_PYU_JEC" Cost="150" Name="LOC_NODE_CIVIC_AQ_PYU_GHANA_NAME" IconString="cult_PYU_jec" />
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_BAMBOUK" ProgressionTree="TREE_CIVICS_AQ_PYU_JEC" Cost="150" Name="LOC_NODE_CIVIC_AQ_PYU_BAMBOUK_NAME" IconString="cult_PYU_jec" />
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH" ProgressionTree="TREE_CIVICS_AQ_PYU_JEC" Cost="250" Name="LOC_NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH_NAME" IconString="cult_PYU_jec" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM" ProgressionTree="TREE_CIVICS_AQ_PYU_JEC" Cost="150" Name="LOC_NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM_NAME" IconString="cult_PYU_jec" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY" ProgressionTree="TREE_CIVICS_AQ_PYU_JEC" Cost="150" Name="LOC_NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY_NAME" IconString="cult_PYU_jec" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE" ProgressionTree="TREE_CIVICS_AQ_PYU_JEC" Cost="250" Name="LOC_NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE_NAME" IconString="cult_PYU_jec" />
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_DINAR" ProgressionTree="TREE_CIVICS_AQ_PYU_JEC" Cost="250" Name="LOC_NODE_CIVIC_AQ_PYU_DINAR_NAME" IconString="cult_PYU_jec" />
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_KAFU" ProgressionTree="TREE_CIVICS_AQ_PYU_JEC" Cost="400" Name="LOC_NODE_CIVIC_AQ_PYU_KAFU_NAME" IconString="cult_PYU_jec" />
 	</ProgressionTreeNodes>
 	<ProgressionTreeNodeUnlocks>
-		<!-- NODE_CIVIC_AQ_PYU_BAMBOUK -->
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_BAMBOUK" TargetKind="KIND_UNIT" TargetType="UNIT_TRANS_SAHARAN_TRADER_JEC" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_BAMBOUK" TargetKind="KIND_DIPLOMATIC_ACTION" TargetType="DIPLOMACY_ACTION_IMPROVE_TRADE_RELATIONS" UnlockDepth="1"/>
+		<!-- NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY" TargetKind="KIND_UNIT" TargetType="UNIT_TRANS_SAHARAN_TRADER_JEC" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY" TargetKind="KIND_DIPLOMATIC_ACTION" TargetType="DIPLOMACY_ACTION_IMPROVE_TRADE_RELATIONS" UnlockDepth="1"/>
 		
 		<!-- NODE_CIVIC_AQ_PYU_DINAR -->
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_DINAR" TargetKind="KIND_MODIFIER" TargetType="MOD_JEC_DINAR_HAPPINESS_PER_NUM_TRADE_ROUTES" UnlockDepth="1"/>
 
-		<!-- NODE_CIVIC_AQ_PYU_GHANA -->
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_GHANA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_DOME_KA_YOROBA_JEC" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_GHANA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_LARABANGA_MOSQUE" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_GHANA" TargetKind="KIND_TRADITION" TargetType="TRADITION_PYU_DINGA" UnlockDepth="1"/>
+		<!-- NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_DOME_KA_YOROBA_JEC" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_LARABANGA_MOSQUE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM" TargetKind="KIND_TRADITION" TargetType="TRADITION_PYU_DINGA" UnlockDepth="1"/>
 		
-		<!-- NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH -->
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_YIRI_SENUMAN_JEC" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH" TargetKind="KIND_TRADITION" TargetType="TRADITION_PYU_KAYA_MAGHAN" UnlockDepth="1"/>
+		<!-- NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_YIRI_SENUMAN_JEC" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE" TargetKind="KIND_TRADITION" TargetType="TRADITION_PYU_KAYA_MAGHAN" UnlockDepth="1"/>
 	
 		<!-- NODE_CIVIC_AQ_PYU_KAFU -->
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_KAFU" TargetKind="KIND_MODIFIER" TargetType="MOD_JEC_KAFU_MOD_CULTURE_TRADE" UnlockDepth="1"/>
@@ -52,13 +52,13 @@
 
 	</ProgressionTreeNodeUnlocks>
 	<ProgressionTreePrereqs>
-		<Row Node="NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH" PrereqNode="NODE_CIVIC_AQ_PYU_GHANA"/>
-		<Row Node="NODE_CIVIC_AQ_PYU_DINAR" PrereqNode="NODE_CIVIC_AQ_PYU_BAMBOUK"/>
-		<Row Node="NODE_CIVIC_AQ_PYU_KAFU" PrereqNode="NODE_CIVIC_AQ_PYU_KWAME_NKRUMAH"/>
+		<Row Node="NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE" PrereqNode="NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM"/>
+		<Row Node="NODE_CIVIC_AQ_PYU_DINAR" PrereqNode="NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY"/>
+		<Row Node="NODE_CIVIC_AQ_PYU_KAFU" PrereqNode="NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE"/>
 		<Row Node="NODE_CIVIC_AQ_PYU_KAFU" PrereqNode="NODE_CIVIC_AQ_PYU_DINAR"/>
 	</ProgressionTreePrereqs>
 	<ProgressionTree_Advisories>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_GHANA" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_KAFU" AdvisoryClassType="ADVISORY_CLASS_CULTURE"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_DINAR" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
 	</ProgressionTree_Advisories>

@@ -75,13 +75,12 @@
 					<Item>text/en_us/NarrativeStoriesText.xml</Item>
                 </UpdateText>
                 <ImportFiles>
-					<Item>icons/civ_sym_wagadu_jec</Item>
-                    <Item>icons/civ_sym_wagadu_jec.png</Item>
-					<Item>icons/cult_wagadu_jec.png</Item>
-					<Item>icons/unitflag_trans_saharan_trader_jec.png</Item>
-					<Item>icons/wondericon_larabanga_mosque.png</Item>
-					<Item>icons/lsbg_wagadu_1080</Item>
-					<Item>icons/lsbg_wagadu_720</Item>
+					<Item>icons/civ_sym_pyu_jec</Item>
+                    <Item>icons/civ_sym_pyu_jec.png</Item>
+					<Item>icons/cult_pyu_jec.png</Item>
+					<Item>icons/wondericon_bawhawgyi_pagoda.png</Item>
+					<Item>icons/lsbg_pyu_1080</Item>
+					<Item>icons/lsbg_pyu_720</Item>
 					<Item>icons/buildicon_dome_ka_yoroba_jec.png</Item>
 					<Item>icons/buildicon_yiri_senuman_jec.png</Item>
                 </ImportFiles>
@@ -178,15 +177,14 @@
 					<Item>config/config.xml</Item>
 				</UpdateDatabase>
                 <ImportFiles>
-					<Item>icons/civ_sym_wagadu_jec</Item>
-                    <Item>icons/civ_sym_wagadu_jec.png</Item>
-					<Item>icons/cult_wagadu_jec.png</Item>
-					<Item>icons/unitflag_trans_saharan_trader_jec.png</Item>
-					<Item>icons/wondericon_larabanga_mosque.png</Item>
-					<Item>icons/lsbg_wagadu_1080</Item>
-					<Item>icons/lsbg_wagadu_720</Item>
-					<Item>icons/buildicon_dome_ka_yoroba_jec.png</Item>
-					<Item>icons/buildicon_yiri_senuman_jec.png</Item>
+					<Item>icons/civ_sym_pyu_jec</Item>
+                    <Item>icons/civ_sym_pyu_jec.png</Item>
+					<Item>icons/cult_pyu_jec.png</Item>
+					<Item>icons/wondericon_bawhawgyi_pagoda.png</Item>
+					<Item>icons/lsbg_pyu_1080</Item>
+					<Item>icons/lsbg_pyu_720</Item>
+					<Item>icons/buildicon_khin_ba_jec.png</Item>
+					<Item>icons/buildicon_payahtaung_jec.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/wagadu.xml</Item>
