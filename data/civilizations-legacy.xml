@@ -3,7 +3,6 @@
 	<Types>
 		<!-- Major Civs -->
 		<Row Type="TRAIT_PYU_JEC" Kind="KIND_TRAIT"/>
-		<Row Type="TRAIT_PYU_JEC_2" Kind="KIND_TRAIT"/>
 		<Row Type="CIVILIZATION_PYU_JEC" Kind="KIND_CIVILIZATION"/>
 	</Types>
 	<LegacyCivilizations>

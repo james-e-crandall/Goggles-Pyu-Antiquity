@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
 	<!-- Attributes -->
-	<Modifier id="TRAIT_MOD_MU_RIVER_VALLY_TOWN_UPGRADE_DISCOUNT" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_TOWN_UPGRADE_DISCOUNT">
+	<Modifier id="TRAIT_MOD_THAYEKHITTAYA_TOWN_UPGRADE_DISCOUNT" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_TOWN_UPGRADE_DISCOUNT">
 		<SubjectRequirements>
 			<Requirement type="REQ_PLOT_ADJACENT_NAVIGABLE_RIVER"/>
 			<Requirement type="REQUIREMENT_PLOT_DISTRICT_CLASS">

@@ -16,12 +16,11 @@
 		<Row TraitType="TRAIT_PYU_JEC_ABILITY" Name="LOC_TRAIT_PYU_JEC_ABILITY_NAME" Description="LOC_TRAIT_PYU_JEC_ABILITY_DESCRIPTION" InternalOnly="true"/>
 	</Traits>
 	<TraitModifiers>
-		<Row TraitType="TRAIT_PYU_JEC_ABILITY" ModifierId="TRAIT_MOD_MU_RIVER_VALLY_TOWN_UPGRADE_DISCOUNT"/>					
+		<Row TraitType="TRAIT_PYU_JEC_ABILITY" ModifierId="TRAIT_MOD_THAYEKHITTAYA_TOWN_UPGRADE_DISCOUNT"/>				
 	</TraitModifiers>
 	<CivilizationTraits>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_ANTIQUITY_CIV"/>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_PYU_JEC"/>
-		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_PYU_JEC_2"/>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_PYU_JEC_ABILITY"/>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_ATTRIBUTE_CULTURAL"/>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" TraitType="TRAIT_ATTRIBUTE_ECONOMIC"/>

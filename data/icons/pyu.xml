@@ -26,17 +26,17 @@
 		</Row>
         <!-- Culture -->
         <Row>
-            <ID>cult_wagadu</ID>
+            <ID>cult_pyu_jec</ID>
             <Path>fs://game/goggles_civ_pyu/icons/cult_pyu_jec.png</Path>
         </Row> 
         <!-- Building -->
 		<Row>
-			<ID>BUILDING_DOME_KA_YOROBA_JEC</ID>
-			<Path>fs://game/goggles_civ_pyu/icons/buildicon_dome_ka_yoroba_jec.png</Path>
+			<ID>BUILDING_BAW_BAW_GYI_PAYA_JEC</ID>
+			<Path>fs://game/goggles_civ_pyu/icons/buildicon_baw_baw_gyi_jec.png</Path>
 		</Row>
 		<Row>
-			<ID>BUILDING_YIRI_SENUMAN_JEC</ID>
-			<Path>fs://game/goggles_civ_pyu/icons/buildicon_yiri_senuman_jec.png</Path>
+			<ID>BUILDING_KHIN_BA_JEC</ID>
+			<Path>fs://game/goggles_civ_pyu/icons/buildicon_khin_ba_jec.png</Path>
 		</Row>  
         <!-- wonder -->
 		<Row>
@@ -45,15 +45,6 @@
 		</Row>
 
         <!-- UU AND UI -->
-        <Row>
-            <ID>UNIT_TRANS_SAHARAN_TRADER_JEC</ID>
-            <Path>fs://game/goggles_civ_pyu/icons/unitflag_trans_saharan_trader_jec.png</Path>
-            <Context>DEFAULT</Context>
-        </Row>
-        <Row>
-            <ID>UNIT_TRANS_SAHARAN_TRADER_JEC_2</ID>
-            <Path>fs://game/goggles_civ_pyu/icons/unitflag_trans_saharan_trader_jec.png</Path>
-            <Context>DEFAULT</Context>
-        </Row>
+
     </IconDefinitions>
 </Database>

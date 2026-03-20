@@ -10,7 +10,7 @@
     <RequirementSet id="REQSET_PYU_JEC_COMPLETED_PROGRESSION_TREEA_NARRATIVE">
         <Requirement xref="REQ_STORY_CIVILIZATION_PYU"/>
         <Requirement type="REQUIREMENT_PLAYER_HAS_COMPLETED_PROGRESSION_TREE_NODE">
-            <Argument name="ProgressionTreeNodeType">NODE_CIVIC_AQ_PYU_KAFU</Argument>
+            <Argument name="ProgressionTreeNodeType">NODE_CIVIC_AQ_PYU_THAMODDARIT</Argument>
             <Argument name="MinDepth">1</Argument>
         </Requirement>
     </RequirementSet>

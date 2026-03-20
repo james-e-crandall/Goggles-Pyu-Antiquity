@@ -12,8 +12,6 @@
 		<Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
 	</Dependencies>
 	<References>
-		<Mod id="friedrich-xerxes-alt" title="LOC_MODULE_FRIEDRICH_XERXES_ALT_NAME"/>
-		<Mod id="friedrich-xerxes-alt" title="LOC_MODULE_FRIEDRICH_XERXES_ALT_DESCRIPTION"/>
 	</References>
 	<ActionCriteria>
 		<Criteria id="antiquity-age-current">
@@ -81,11 +79,11 @@
 					<Item>icons/wondericon_bawhawgyi_pagoda.png</Item>
 					<Item>icons/lsbg_pyu_1080</Item>
 					<Item>icons/lsbg_pyu_720</Item>
-					<Item>icons/buildicon_dome_ka_yoroba_jec.png</Item>
-					<Item>icons/buildicon_yiri_senuman_jec.png</Item>
+					<Item>icons/buildicon_baw_baw_gyi_jec.png</Item>
+					<Item>icons/buildicon_khin_ba_jec.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
-                    <Item>data/icons/wagadu.xml</Item>
+                    <Item>data/icons/pyu.xml</Item>
                 </UpdateIcons>
                 <ScenarioScripts>
                 </ScenarioScripts>
@@ -183,11 +181,11 @@
 					<Item>icons/wondericon_bawhawgyi_pagoda.png</Item>
 					<Item>icons/lsbg_pyu_1080</Item>
 					<Item>icons/lsbg_pyu_720</Item>
+					<Item>icons/buildicon_baw_baw_gyi_jec.png</Item>
 					<Item>icons/buildicon_khin_ba_jec.png</Item>
-					<Item>icons/buildicon_payahtaung_jec.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
-                    <Item>data/icons/wagadu.xml</Item>
+                    <Item>data/icons/pyu.xml</Item>
                 </UpdateIcons>
 				<UpdateText>
 					<Item>text/en_us/CivilizationText.xml</Item>

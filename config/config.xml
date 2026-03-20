@@ -15,16 +15,15 @@
 
 	</LeaderCivilizationBias>
 	<Civilizations>
-		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" CivilizationName="LOC_CIVILIZATION_PYU_JEC_NAME" CivilizationFullName="LOC_CIVILIZATION_PYU_JEC_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_PYU_JEC_DESCRIPTION" CivilizationIcon="civ_sym_PYU_JEC.png"/>
+		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" CivilizationName="LOC_CIVILIZATION_PYU_JEC_NAME" CivilizationFullName="LOC_CIVILIZATION_PYU_JEC_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_PYU_JEC_DESCRIPTION" CivilizationIcon="civ_sym_pyu_jec.png"/>
 	</Civilizations>
 	<CivilizationItems>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" Type="TRAIT_PYU_JEC_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_PYU_JEC_ABILITY_NAME" Description="LOC_TRAIT_PYU_JEC_ABILITY_DESCRIPTION"/>
 		
-		<!-- <Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" Type="UNIT_TRANS_SAHARAN_TRADER_JEC" Kind="KIND_UNIT" Name="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_NAME" Description="LOC_UNIT_TRANS_SAHARAN_TRADER_JEC_DESCRIPTION" Icon="ICON_UNIT_TRANS_SAHARAN_TRADER_JEC"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" Type="BUILDING_DOME_KA_YOROBA_JEC" Kind="KIND_BUILDING" Name="LOC_BUILDING_DOME_KA_YOROBA_JEC_NAME" Description="LOC_BUILDING_DOME_KA_YOROBA_JEC_DESCRIPTION" Icon="ICON_BUILDING_DOME_KA_YOROBA_JEC"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" Type="BUILDING_YIRI_SENUMAN_JEC" Kind="KIND_BUILDING" Name="LOC_BUILDING_YIRI_SENUMAN_JEC_NAME" Description="LOC_BUILDING_YIRI_SENUMAN_JEC_DESCRIPTION" Icon="ICON_BUILDING_YIRI_SENUMAN_JEC"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" Type="QUARTER_OUAGADOU_JEC" Kind="KIND_QUARTER" Name="LOC_QUARTER_OUAGADOU_JEC_NAME" Description="LOC_QUARTER_OUAGADOU_JEC_DESCRIPTION" Icon="city_uniquequarter"/>
-	 -->
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" Type="BUILDING_BAW_BAW_GYI_PAYA_JEC" Kind="KIND_BUILDING" Name="LOC_BUILDING_BAW_BAW_GYI_PAYA_JEC_NAME" Description="LOC_BUILDING_BAW_BAW_GYI_PAYA_JEC_DESCRIPTION" Icon="ICON_BUILDING_BAW_BAW_GYI_PAYA_JEC"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" Type="BUILDING_KHIN_BA_JEC" Kind="KIND_BUILDING" Name="LOC_BUILDING_KHIN_BA_JEC_NAME" Description="LOC_BUILDING_KHIN_BA_JEC_DESCRIPTION" Icon="ICON_BUILDING_KHIN_BA_JEC"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" Type="QUARTER_PAYAHTAUNG_JEC" Kind="KIND_QUARTER" Name="LOC_QUARTER_PAYAHTAUNG_JEC_NAME" Description="LOC_QUARTER_PAYAHTAUNG_JEC_DESCRIPTION" Icon="city_uniquequarter"/>
+
 	</CivilizationItems>
 	<CivilizationTags>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_PYU_JEC" TagType="TAG_TRAIT_CULTURAL"/>

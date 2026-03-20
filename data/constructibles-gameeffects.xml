@@ -6,12 +6,13 @@
 	<Modifier id="MOD_THAYEKHITTAYA_QUARTER_ADJACENCY" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ACTIVATE_CONSTRUCTIBLE_ADJACENCY">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
-				<Argument name="UniqueQuarterType">QUARTER_THAYEKHITTAYA_JEC</Argument>
+				<Argument name="UniqueQuarterType">QUARTER_PAYAHTAUNG_JEC</Argument>
 			</Requirement>
 		</SubjectRequirements>
 		<Argument name="ConstructibleAdjacency">PayahtaungQuarterCulture, KhinBaQuarterScience</Argument>
 		<String context="Description">LOC_MOD_ZHI_SCIENCE_BUILDING_URBAN_ADJACENCY_DESCRIPTION</String>
 	</Modifier>
+
 
 
 
