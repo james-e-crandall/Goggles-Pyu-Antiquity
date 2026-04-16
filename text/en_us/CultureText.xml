@@ -2,33 +2,33 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_TREE_CIVICS_AQ_PYU_JEC_NAME">
-			<Text>Wagadu Civics</Text>
+			<Text>Pyu Civics</Text>
 		</Row>
 
 		<!-- NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM_QUOTE">
-			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+			<Text>We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM_QUOTE_AUTHOR">
-			<Text>Song of the Turtle</Text>
+			<Text>Buddha Gautama</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM_NAME">
-			<Text>Bambouk</Text>
+			<Text>Tagaung Kingdom</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM_DESCRIPTION">
-			<Text>x y z</Text>
+			<Text>Tagaung Kingdom</Text>
 		</Row>
 		<!-- Modifiers -->
 
 		<!-- NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY_QUOTE">
-			<Text>Annallja Tu Bari was the daughter of a prince.  Everyone who saw her was impressed with her tremendous beauty and wisdom.  Many noble men sought to marry her, but she always demanded that each would do something that they would not be willing to do.</Text>
+			<Text>Tampa dīpa.</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY_QUOTE_AUTHOR">
-			<Text>Samba Gana</Text>
+			<Text>Burmese chronicles</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY_NAME">
-			<Text>Dinar</Text>
+			<Text>Bronze Country</Text>
 		</Row>
 
 
@@ -37,13 +37,13 @@
 
 		<!-- NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE_QUOTE">
-			<Text>We lived in freedom Before man appeared: Our world was undisturbed, One day followed the other joyfully. Dissent was never heard. Then man broke into our forest, With cunning and belligerence. He pursued us With greed and envy: Our freedom vanished.</Text>
+			<Text>Śrī Kṣetra, Jagannātha Purī, was taken as the kingdom of Dvārakā, the place where Kṛṣṇa enjoys supreme opulence. But He was being led by Śrī Caitanya Mahāprabhu to Vṛndāvana, the simple village where all the inhabitants are filled with ecstatic love for Kṛṣṇa. Śrī Kṣetra is a place of aiśvarya-līlā, just as Vṛndāvana is the place of mādhurya-līlā.</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE_QUOTE_AUTHOR">
-			<Text>Song of the Turtle</Text>
+			<Text>CC Madhya</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE_NAME">
-			<Text>Ghana </Text>
+			<Text>Sri Ksetra kingdom</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE_DESCRIPTION">
 			<Text>.</Text>

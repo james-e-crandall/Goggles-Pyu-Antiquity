@@ -18,38 +18,51 @@
 			<Text>Hanlin</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC6">
-			<Text>Halin</Text>
+			<Text>Kokko</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC7">
 			<Text>Hmainmaw</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC8">
-			<Text>Tagaung</Text>
+			<Text>Kyinlo</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC9">
-			<Text>Pinle</Text>
+			<Text>Dazaungkun</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC10">
-			<Text>Pinle Pyu</Text>
+			<Text>Anuradha</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC11">
-			<Text>Mong Mao</Text>
+			<Text>Nyaungwun</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC12">
-			<Text>Mongamo</Text>
+			<Text>Ohte Thein</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC13">
-			<Text>Halingyi</Text>
+			<Text>Htude</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC14">
-			<Text>Thaton</Text>
+			<Text>Naga Kyit</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC15">
-			<Text>Kelasa</Text>
+			<Text>Naga Soe</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYU_JEC16">
-			<Text>Bago </Text>
+			<Text>Nyaung</Text>
 		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC17">
+			<Text>Taungpa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC18">
+			<Text>Myegedwin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC19">
+			<Text>Thayet Ya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYU_JEC20">
+			<Text>Singu</Text>
+		</Row>
+
 
 	</EnglishText>
 </Database>

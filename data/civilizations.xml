@@ -48,6 +48,11 @@
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" CityName="LOC_CITY_NAME_PYU_JEC14"/>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" CityName="LOC_CITY_NAME_PYU_JEC15"/>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" CityName="LOC_CITY_NAME_PYU_JEC16"/>
+		<Row CivilizationType="CIVILIZATION_PYU_JEC" CityName="LOC_CITY_NAME_PYU_JEC17"/>
+		<Row CivilizationType="CIVILIZATION_PYU_JEC" CityName="LOC_CITY_NAME_PYU_JEC18"/>
+		<Row CivilizationType="CIVILIZATION_PYU_JEC" CityName="LOC_CITY_NAME_PYU_JEC19"/>
+		<Row CivilizationType="CIVILIZATION_PYU_JEC" CityName="LOC_CITY_NAME_PYU_JEC20"/>
+
 	</CityNames>
 	<StartBiasBiomes>
 		<Row CivilizationType="CIVILIZATION_PYU_JEC" BiomeType="BIOME_TROPICAL" Score="20"/>
