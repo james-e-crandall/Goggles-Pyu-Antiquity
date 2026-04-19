@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
-
+	<Modifier id="MOD_PYU_JEC_CULTURE" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_ADJUST_CONSTRUCTIBLE_YIELD">
+		<Argument name="ConstructibleType">BUILDING_PALACE</Argument>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount" type="ScaleByGameAge" extra="100">1</Argument>
+		<Argument name="Tooltip">LOC_TREE_ATTRIBUTE_CULTURAL</Argument>
+		<String context="Description">LOC_MOD_ATTRIBUTE_CULTURAL_01_DESCRIPTION</String>
+	</Modifier>
 
 
 </GameEffects>

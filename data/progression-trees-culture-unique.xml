@@ -30,14 +30,19 @@
 	</ProgressionTreeNodes>
 	<ProgressionTreeNodeUnlocks>
 		<!-- NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM" TargetKind="KIND_MODIFIER" TargetType="MOD_PYU_JEC_CULTURE" UnlockDepth="1"/>
 
 		<!-- NODE_CIVIC_AQ_PYU_KADU -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_BRONZE_COUNTRY" TargetKind="KIND_MODIFIER" TargetType="MOD_PYU_JEC_CULTURE" UnlockDepth="1"/>
 
 		<!-- NODE_CIVIC_AQ_PYU_TAGAUNG_KINGDOM -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE" TargetKind="KIND_MODIFIER" TargetType="MOD_PYU_JEC_CULTURE" UnlockDepth="1"/>
 
 		<!-- NODE_CIVIC_AQ_PYU_FIELD_OF_FORTUNE -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_KADU" TargetKind="KIND_MODIFIER" TargetType="MOD_PYU_JEC_CULTURE" UnlockDepth="1"/>
 
 		<!-- NODE_CIVIC_AQ_PYU_THAMODDARIT -->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_AQ_PYU_THAMODDARIT" TargetKind="KIND_MODIFIER" TargetType="MOD_PYU_JEC_CULTURE" UnlockDepth="1"/>
 
 	</ProgressionTreeNodeUnlocks>
 	<ProgressionTreePrereqs>
